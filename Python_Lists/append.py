@@ -1,4 +1,3 @@
 courses = ['data structures','System design','programming','python','Data Science']
-print(courses[-1])
-
-
+courses.append('Machine Learning')
+print(courses)

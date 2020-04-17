@@ -1,4 +1,4 @@
 courses = ['data structures','System design','programming','python','Data Science']
-print(courses[-1])
-
-
+popped=courses.pop()
+print(popped)
+print(courses)

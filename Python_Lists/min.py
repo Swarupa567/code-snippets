@@ -1,4 +1,3 @@
 courses = ['data structures','System design','programming','python','Data Science']
-print(courses[-1])
-
-
+nums = [1,24,34,44,54]
+print(min(nums))

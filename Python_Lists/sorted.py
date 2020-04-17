@@ -1,4 +1,4 @@
 courses = ['data structures','System design','programming','python','Data Science']
-print(courses[-1])
-
-
+sorted_courses = sorted(courses)
+print(sorted_courses)
+print(courses)
